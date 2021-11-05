@@ -1,0 +1,15 @@
+{
+  "name": "replacestring",
+  "version": "1.0.0",
+  "description": "Replace each char in a string with the next char in alphabet",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Luis Cardeña",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
