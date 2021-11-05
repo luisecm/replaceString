@@ -12,10 +12,12 @@ Steps to install and execute the tests:
 
 3. Install mocha and chai dependencies
 ```npm install mocha --save -include=dev```
+
 ```npm install chai --save -include=dev```
 
 4. Modify package.json
-```"scripts": {
+```
+"scripts": {
     "test": "mocha"
   }
 ```
