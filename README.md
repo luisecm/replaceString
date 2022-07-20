@@ -1,6 +1,6 @@
 # replaceString simple project
 
-Script will replace each char in a string with the next char in alphabet
+Small NodeJS code with mocha/chai to test replacing each char in a string with the next char in alphabet
 
 Steps to install and execute the tests:
 
